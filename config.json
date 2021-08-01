@@ -1,0 +1,11 @@
+{
+    "bot_info": {
+        "token": "Your Token",
+        "prefix": "-",
+        "status": "Your Custom Status"
+    },
+    "fivem_server_info": {
+        "server_ip": "Your Server Ip",
+        "server_port": "30120"
+    }
+}
